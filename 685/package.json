@@ -1,0 +1,11 @@
+{
+  "name": "unknown-topic-a",
+  "version": "0.1.0",
+  "description": "Server sends error unknown topic a upon logging in",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "deepstream.io-client-js": "^2.3.0"
+  }
+}
